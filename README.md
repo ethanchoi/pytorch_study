@@ -38,21 +38,21 @@ Offline PyTorch Study supported by AI Robotics KR group will be held for two hou
 
 
 
-| Week    | Subject  | Presenter |
-| ---------- | --------- | :---: |
+| Week      | Subject  | Presenter |
+| ------------ | --------- | :---: |
 | Week 1, 7/19 | Study Introduction, Setup Environments,Deep Learning with Pytorch: A 60 Minute Blitz-1 | 최재영 |
 | Week 2, 7/26 | Deep Learning with Pytorch: A 60 Minute Blitz-2 Data Loading and Processing Tutorial | 최재영 |
-| Week 3, 8/2 |Learning Pytorch With Examples | LEEDONGHOON |
-| Week 4, 8/9 | Transfer Learning Tutorial Saving and Loading Models | JoHwnahee |
-| Week 5, 8/16 | Deploying A Seq2seq Model with The Hybrid Frontend |  |
-| Week 6, 8/23 | What is torch.nn really ? | Minjeong Kim |
-| Week 7, 8/30 | Torchvision 0.3 Object Detection Finetuning Tutorial | jisu-kim |
-| Week 8, 9/6 | FineTunning Torchvision Model, Spatial Transformer Networks Tutorial |  |
-| Week 9, 9/20 | Neural Transfer Using Pytorch | Yunkyu |
-| Week 10, 9/27 | Deep Learning for NLP With PyTorch | Inhwan Lee, Eunseo Kim |
-| Week 11, 10/4 | DCGAN Tutorial | Hyewon Jeong |
-| Week 12, 10/11 | Reinforcement Learning (DQN) Tutorial | Jungyeon Lee, Hong Daseon |
-| Week 13, 10/18 | Study Review, Future Plan, Party | ALL |
+| Week 3, 8/9 | Learning Pytorch With Examples | LEEDONGHOON |
+| Week 4, 8/16 | Transfer Learning Tutorial Saving and Loading Models | JoHwnahee |
+| Week 5, 8/23 | Deploying A Seq2seq Model with The Hybrid Frontend |  |
+| Week 6, 8/30 | What is torch.nn really ? | Minjeong Kim |
+| Week 7, 9/6 | Torchvision 0.3 Object Detection Finetuning Tutorial | jisu-kim |
+| Week 8, 9/20 | FineTunning Torchvision Model, Spatial Transformer Networks Tutorial |  |
+| Week 9, 9/27 | Neural Transfer Using Pytorch | Yunkyu |
+| Week 10, 10/4 | Deep Learning for NLP With PyTorch | Inhwan Lee, Eunseo Kim |
+| Week 11, 10/11 | DCGAN Tutorial | Hyewon Jeong |
+| Week 12, 10/18 | Reinforcement Learning (DQN) Tutorial | Jungyeon Lee, Hong Daseon |
+| Week 13, 10/25 | Study Review, Future Plan, Party | ALL |
 
 
 
