@@ -43,7 +43,7 @@ Offline PyTorch Study supported by AI Robotics KR group will be held for two hou
 | Week 1, 7/19 | Study Introduction, Setup Environments,Deep Learning with Pytorch: A 60 Minute Blitz-1 | 최재영 |
 | Week 2, 7/26 | Deep Learning with Pytorch: A 60 Minute Blitz-2 Data Loading and Processing Tutorial | 최재영 |
 | Week 3, 8/9 | Learning Pytorch With Examples | LEEDONGHOON |
-| Week 4, 8/16 | Transfer Learning Tutorial Saving and Loading Models |  |
+| Week 4, 8/16 | Transfer Learning Tutorial Saving and Loading Models | 최재영 |
 | Week 5, 8/23 | Deploying A Seq2seq Model with The Hybrid Frontend |  |
 | Week 6, 8/30 | What is torch.nn really ? | Minjeong Kim |
 | Week 7, 9/6 | Torchvision 0.3 Object Detection Finetuning Tutorial | jisu-kim |
