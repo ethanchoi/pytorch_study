@@ -46,14 +46,12 @@ Offline PyTorch Study supported by AI Robotics KR group will be held for two hou
 | Week 4, 8/16 | Transfer Learning Tutorial Saving and Loading Models | 최재영 |
 | Week 5, 8/23 | DEPLOYING A SEQ2SEQ MODEL WITH TORCHSCRIPT | 최재영 |
 | Week 6, 8/30 | What is torch.nn really ? | Minjeong Kim |
-| Week 7, 9/6 | Torchvision 0.3 Object Detection Finetuning Tutorial | jisu-kim |
+| Week 7, 9/6 | Torchvision 0.3 Object Detection Finetuning Tutorial | 최재영 |
 | Week 8, 9/20 | FineTunning Torchvision Model, Spatial Transformer Networks Tutorial | Jungyeon Lee |
 | Week 9, 9/27 | Neural Transfer Using Pytorch | Yunkyu |
 | Week 10, 10/4 | Deep Learning for NLP With PyTorch | Inhwan Lee, Eunseo Kim |
 | Week 11, 10/11 | DCGAN Tutorial | Hyewon Jeong |
 | Week 12, 10/18 | Reinforcement Learning (DQN) Tutorial | Hong Daseon |
 | Week 13, 10/25 | Study Review, Future Plan, Party | ALL |
-
-
 
 ---
